@@ -1,0 +1,2530 @@
+[2018-08-26 17:12:42,296:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:42,296:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:46,812:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:46,812:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:51,332:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:51,332:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:55,836:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:12:55,836:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:00,345:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:00,345:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:04,861:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:04,861:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:09,368:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:09,368:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:13,872:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:13,872:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:18,381:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:18,381:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:22,892:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:22,892:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:27,401:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:27,401:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:31,913:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:31,913:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:36,421:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:36,421:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:40,933:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:40,933:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:45,440:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:45,440:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:49,948:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:49,948:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:54,457:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:54,457:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:58,973:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:13:58,973:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:03,482:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:03,482:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:07,986:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:07,986:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:12,493:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:12,493:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:17,002:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:17,002:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:21,513:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:21,513:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:26,022:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:26,022:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:30,538:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:30,538:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:35,053:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:35,053:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:39,558:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:39,558:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:44,069:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:44,069:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:48,578:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:48,578:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:53,085:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:53,085:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:57,594:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:14:57,594:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:02,101:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:02,101:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:06,609:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:06,609:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:11,118:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:11,118:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:15,630:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:15,630:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:20,145:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:20,145:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:24,657:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:24,657:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:29,170:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:29,170:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:33,686:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:33,686:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:38,194:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:38,194:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:42,706:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:42,706:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:47,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:47,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:51,726:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:51,726:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:56,233:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:15:56,233:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:00,746:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:00,746:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:05,262:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:05,262:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:09,773:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:09,773:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:14,286:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:14,286:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:18,805:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:18,805:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:23,313:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:23,313:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:27,822:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:27,822:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:32,329:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:32,329:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:36,845:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:36,845:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:41,354:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:41,354:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:45,865:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:45,865:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:50,374:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:50,374:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:54,881:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:54,881:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:59,394:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:16:59,394:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:03,901:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:03,901:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:08,417:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:08,417:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:12,930:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:12,930:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:17,441:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:17,441:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:21,953:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:21,953:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:26,466:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:26,466:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:30,970:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:30,970:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:35,482:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:35,482:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:39,993:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:39,993:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:44,506:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:44,506:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:49,017:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:49,017:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:53,533:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:53,533:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:58,046:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:17:58,046:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:02,553:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:02,553:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:07,062:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:07,062:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:11,573:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:11,573:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:16,082:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:16,082:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:20,594:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:20,594:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:25,105:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:25,105:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:29,614:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:29,614:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:34,130:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:34,130:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:38,634:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:38,634:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:43,145:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:43,145:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:47,654:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:47,654:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:52,165:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:52,165:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:56,677:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:18:56,677:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:01,190:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:01,190:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:05,701:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:05,701:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:10,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:10,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:14,726:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:14,726:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:19,233:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:19,233:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:23,742:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:23,742:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:28,253:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:28,253:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:32,766:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:32,766:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:37,278:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:37,278:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:41,793:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:41,793:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:46,302:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:46,302:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:50,813:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:50,813:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:55,322:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:55,322:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:59,834:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:19:59,834:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:04,342:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:04,342:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:08,854:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:08,854:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:13,361:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:13,361:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:17,869:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:17,869:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:22,378:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:22,378:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:26,885:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:26,885:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:31,385:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:20:31,385:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:49,201:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:49,201:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:53,713:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:53,713:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:58,237:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:21:58,237:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:02,750:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:02,750:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:07,273:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:07,273:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:11,789:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:11,789:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:16,318:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:16,318:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:20,834:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:20,834:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:25,345:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:25,345:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:29,858:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:29,858:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:34,365:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:34,365:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:38,869:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:38,869:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:43,374:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:43,374:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:47,881:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:47,881:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:52,384:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:52,384:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:56,913:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:22:56,913:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:01,424:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:01,424:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:05,941:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:05,941:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:10,448:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:10,448:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:14,960:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:14,960:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:19,469:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:19,469:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:23,976:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:23,976:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:28,493:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:28,493:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:33,002:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:33,002:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:37,525:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:37,525:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:42,032:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:42,032:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:46,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:46,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:51,053:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:51,053:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:55,569:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:23:55,569:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:00,081:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:00,081:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:04,592:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:04,592:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:09,101:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:09,101:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:13,621:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:13,621:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:18,125:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:18,125:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:22,638:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:22,638:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:27,148:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:27,148:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:31,664:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:31,664:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:36,177:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:36,177:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:40,688:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:40,688:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:45,198:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:45,198:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:49,707:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:49,707:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:54,220:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:54,220:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:58,752:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:24:58,752:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:03,260:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:03,260:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:07,776:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:07,776:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:12,296:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:12,296:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:16,806:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:16,806:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:21,338:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:21,338:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:25,857:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:25,857:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:30,368:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:30,368:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:34,897:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:34,897:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:39,417:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:39,417:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:43,943:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:43,943:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:48,463:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:48,463:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:52,973:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:52,973:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:57,492:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:25:57,492:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:02,022:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:02,022:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:06,549:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:06,549:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:11,061:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:11,061:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:15,601:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:15,601:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:20,124:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:20,124:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:24,641:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:24,641:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:29,155:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:29,155:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:33,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:33,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:38,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:38,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:42,743:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:42,743:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:47,262:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:47,262:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:51,775:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:51,775:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:56,308:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:26:56,308:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:00,825:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:00,825:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:05,334:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:05,334:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:09,848:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:09,848:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:14,371:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:14,371:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:18,895:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:18,895:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:23,426:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:23,426:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:27,953:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:27,953:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:32,470:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:32,470:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:36,986:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:36,986:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:41,500:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:41,500:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:46,016:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:46,016:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:50,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:50,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:55,079:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:55,079:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:59,619:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:27:59,619:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:04,151:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:04,151:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:08,657:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:08,657:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:13,180:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:13,180:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:17,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:17,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:22,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:22,213:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:26,730:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:26,730:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:31,266:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:31,266:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:35,778:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:35,778:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:40,299:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:40,299:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:44,809:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:44,809:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:49,315:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:49,315:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:53,831:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:53,831:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:58,355:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:28:58,355:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:02,871:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:02,871:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:07,391:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:07,391:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:11,911:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:11,911:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:16,441:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:16,441:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:20,967:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:20,967:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:25,494:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:25,494:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:30,019:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:30,019:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:34,540:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:34,540:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:39,092:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:39,092:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:43,619:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:43,619:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:48,137:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:48,137:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:52,665:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:52,665:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:57,177:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:29:57,177:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:01,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:01,697:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:06,236:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:06,236:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:10,760:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:10,760:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:15,292:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:15,292:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:19,809:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:19,809:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:24,338:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:24,338:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:28,846:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:28,846:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:33,355:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:33,355:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:37,865:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:37,865:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:42,387:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:42,387:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:46,910:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:46,910:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:51,430:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:51,430:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:55,947:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:30:55,947:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:00,467:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:00,467:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:04,983:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:04,983:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:09,516:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:09,516:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:14,020:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:14,020:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:18,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:18,542:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:23,063:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:23,063:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:27,581:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:27,581:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:32,105:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:32,105:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:36,627:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:36,627:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:41,151:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:41,151:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:45,665:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:45,665:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:50,183:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:50,183:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:54,698:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:54,698:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:59,229:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:31:59,229:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:03,744:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:03,744:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:08,278:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:08,278:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:12,793:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:12,793:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:17,309:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:17,309:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:21,825:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 17:32:21,825:fw_json_validator:60:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 58, in get_ip_details
+    
+herror: [Errno 11004] host not found
+[2018-08-26 18:53:57,823:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 18:54:07,164:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 18:54:16,733:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 18:54:21,276:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:25,135:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:29,769:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:39,321:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:43,878:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:48,397:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:19:57,244:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:21:28,816:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 19:50:12,622:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 20:04:43,246:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found
+[2018-08-26 20:04:47,846:fw_json_validator:67:ERROR] IP couldnt be resolved [Errno 11004] host not found
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\tests\fw_json_validator.py", line 65, in get_ip_details
+    hostname = socket.gethostbyaddr(host)[0]
+herror: [Errno 11004] host not found

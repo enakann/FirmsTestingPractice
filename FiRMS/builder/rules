@@ -1,0 +1,15 @@
+bash-4.2$ cat 1234_existing_policies.txt
+Row Number      Source Address  Destination Address     Port    Policy-Name
+No existing policiesbash-4.2$ cat 1234_policies.txt
+***ord12-toa-fw-1
+ ===============================================
+
+set applications application tcp-2001 protocol tcp
+set applications application tcp-2001 destination-port 2001
+
+Policies generated for row number 1
+set security policies from-zone PRIVATE-MT to-zone PUBLIC-FT policy 1234_psane_1 match source-address pp1-chicago-colo-toa-10.94.207.184/29
+set security policies from-zone PRIVATE-MT to-zone PUBLIC-FT policy 1234_psane_1 match destination-address pp1-chicago-colo-toa-v22-160.34.164.48/29
+set security policies from-zone PRIVATE-MT to-zone PUBLIC-FT policy 1234_psane_1 match application tcp-2001
+
+set security policies from-zone PRIVATE-MT to-zone PUBLIC-FT policy 1234_psane_1 then permit

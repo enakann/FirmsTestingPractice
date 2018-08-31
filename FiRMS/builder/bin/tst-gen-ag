@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# activate virtual env for FiRMS
+. /bin/virtualenvwrapper.sh
+#export WORKON_HOME=/home/netauto/FiRMS/envs
+export WORKON_HOME=/FiRMS/envs
+workon FiRMS-venv
+
+# add project path to PYTHONPATH env variable
+#export PYTHONPATH=/home/netauto/FiRMS/builder/lib
+#export PYTHONPATH=/FiRMS/builder/lib
+
+#python /home/netauto/FiRMS/builder/lib/test_ip.py
+python /home/netauto/FiRMS/builder/lib/test_ip_new_ag.py
+

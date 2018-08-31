@@ -1,0 +1,253 @@
+[2018-08-23 17:32:21,267:exception_mocking:10:ERROR] Failed to insert data for pre-processing
+[2018-08-23 17:33:12,492:exception_mocking:10:WARNING] Failed to insert data for pre-processing
+[2018-08-23 17:33:25,326:exception_mocking:10:ERROR] Failed to insert data for pre-processing
+[2018-08-23 17:52:41,158:exception_mocking:10:ERROR] Failed to insert data for pre-processing
+[2018-08-23 17:53:18,253:exception_mocking:10:ERROR] Failed to insert data for pre-processinginteger division or modulo by zero
+[2018-08-23 17:53:35,963:exception_mocking:10:ERROR] integer division or modulo by zero
+[2018-08-23 17:54:22,584:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:00:14,852:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:01:49,323:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:04:13,628:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:06:23,200:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:13:12,476:exception_mocking:11:ERROR] integer division or modulo by zero
+[2018-08-23 18:46:32,948:exception_mocking:27:ERROR] integer division or modulo by zero
+[2018-08-23 18:46:44,832:exception_mocking:27:ERROR] integer division or modulo by zero
+[2018-08-23 18:47:14,519:exception_mocking:27:ERROR] integer division or modulo by zero
+[2018-08-23 18:49:02,461:exception_mocking:28:ERROR] integer division or modulo by zero
+[2018-08-23 18:50:51,832:exception_mocking:28:ERROR] integer division or modulo by zero
+[2018-08-23 18:51:02,801:exception_mocking:28:ERROR] integer division or modulo by zero
+[2018-08-23 18:51:27,242:exception_mocking:28:ERROR] integer division or modulo by zero
+[2018-08-23 18:52:45,463:exception_mocking:29:ERROR] integer division or modulo by zero
+[2018-08-23 18:55:58,653:exception_mocking:29:ERROR] integer division or modulo by zero
+[2018-08-23 18:56:57,161:exception_mocking:29:ERROR] integer division or modulo by zero
+[2018-08-23 18:57:37,969:exception_mocking:29:ERROR] integer division or modulo by zero
+[2018-08-23 18:57:50,315:exception_mocking:29:ERROR] integer division or modulo by zero
+[2018-08-23 19:11:15,631:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:11:49,542:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:12:10,553:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:18:04,895:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:18:30,674:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:19:57,111:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:20:13,413:exception_mocking:60:ERROR] integer division or modulo by zero
+[2018-08-23 19:20:46,177:exception_mocking:60:ERROR] failed
+[2018-08-23 19:23:55,273:exception_mocking:61:ERROR] failed
+[2018-08-23 19:25:41,427:exception_mocking:61:ERROR] failed
+[2018-08-23 19:29:09,010:FUNC:11:ERROR] failed
+[2018-08-26 21:02:00,921:get_ip_details:31:ERROR] IP couldnt be resolved func2() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 26, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1062, in __call__
+    return _mock_self._mock_call(*args, **kwargs)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1128, in _mock_call
+    ret_val = effect(*args, **kwargs)
+TypeError: func2() takes exactly 1 argument (2 given)
+[2018-08-26 21:09:27,463:get_ip_details:31:ERROR] IP couldnt be resolved func2() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 26, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1062, in __call__
+    return _mock_self._mock_call(*args, **kwargs)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1128, in _mock_call
+    ret_val = effect(*args, **kwargs)
+TypeError: func2() takes exactly 1 argument (2 given)
+[2018-08-26 21:09:27,463:get_ip_details:31:ERROR] IP couldnt be resolved func2() takes exactly 1 argument (2 given)
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 26, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1062, in __call__
+    return _mock_self._mock_call(*args, **kwargs)
+  File "C:\Python27amd64\lib\site-packages\mock\mock.py", line 1128, in _mock_call
+    ret_val = effect(*args, **kwargs)
+TypeError: func2() takes exactly 1 argument (2 given)
+[2018-08-26 21:23:33,575:get_ip_details:20:WARNING] ip regex not matched
+[2018-08-26 21:29:24,302:get_ip_details:20:WARNING] ip regex not matched
+[2018-08-26 21:30:12,104:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:30:38,857:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:30:38,857:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:30:38,857:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:31:22,062:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:32:02,716:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:33:26,693:get_ip_details:20:WARNING] wrong
+[2018-08-26 21:34:08,092:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:35:19,388:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:35:37,151:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:44:30,453:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:44:55,901:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:46:05,414:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:46:39,190:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:46:39,191:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:49:57,023:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:49:57,023:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:50:51,253:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:50:51,253:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:50:51,253:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:50:51,269:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:53:23,257:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:53:23,263:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:54:36,848:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:54:36,865:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:54:55,710:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:54:55,726:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:55:02,237:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:55:02,247:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:55:27,145:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:55:27,145:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:56:08,084:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:56:08,099:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:56:46,157:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:56:46,170:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:56:46,174:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:56:46,177:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:57:18,201:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:57:18,213:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:57:18,219:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:57:18,219:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:58:02,522:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:58:02,538:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:58:02,538:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:58:02,538:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:58:53,835:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:58:53,835:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 21:59:19,726:get_ip_details:21:WARNING] wrong
+[2018-08-26 21:59:19,726:get_ip_details:33:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 28, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:01:12,233:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:01:12,246:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:01:12,250:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:01:12,250:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:01:42,714:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:01:42,714:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:02:44,127:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:02:44,127:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:03:59,806:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:03:59,806:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:04:32,361:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:04:32,361:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:05:08,357:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:05:08,357:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:06:43,265:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:06:43,265:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:08:28,657:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:16:18,464:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:16:18,464:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:16:40,825:get_ip_details:22:WARNING] wrong
+[2018-08-26 22:16:40,825:get_ip_details:34:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 29, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:18:55,756:get_ip_details:23:WARNING] wrong
+[2018-08-26 22:18:55,756:get_ip_details:35:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 30, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-26 22:20:49,959:get_ip_details:23:WARNING] wrong
+[2018-08-26 22:20:49,959:get_ip_details:35:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 30, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed
+[2018-08-27 22:56:15,000:get_ip_details:23:WARNING] wrong
+[2018-08-27 22:56:15,028:get_ip_details:23:WARNING] wrong
+[2018-08-27 22:56:15,052:get_ip_details:35:ERROR] IP couldnt be resolved [Errno 11001] getaddrinfo failed
+Traceback (most recent call last):
+  File "D:\my_Python\py_projects\FirmsTestingPractice\FiRMS\My_Work\LEARNINGS\get_ip_details.py", line 30, in get_ip_details
+    out = socket.getaddrinfo(hostname, 80)
+gaierror: [Errno 11001] getaddrinfo failed

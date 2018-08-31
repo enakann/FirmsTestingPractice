@@ -1,0 +1,9 @@
+#!/bin/perl
+use Socket;
+my $addr='10.92.185.147';
+my ($hostname, $aliases) = gethostbyaddr(inet_aton($addr), AF_INET);
+print $hostname."\n";
+($name, $aliases, $addrtype, $length, @addrs) = gethostbyname('storage.us2.oraclecloud.com');
+print $_ foreach @addrs;
+($name, $aliases, $addrtype, $length, @addrs) = gethostbyname('129.152.172.3');
+print $_ foreach @addrs;

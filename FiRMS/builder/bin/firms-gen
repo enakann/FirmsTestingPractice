@@ -1,0 +1,18 @@
+#!/bin/bash
+
+# activate virtual env for FiRMS
+. /bin/virtualenvwrapper.sh
+export WORKON_HOME=/home/netauto/FiRMS/envs
+workon FiRMS-venv
+
+# add project path to PYTHONPATH env variable
+export PYTHONPATH=/home/netauto/FiRMS/builder/lib
+
+## set LD_LIBRARY_PATH to locate oracle instant client libraries
+export LD_LIBRARY_PATH=/home/netauto/FiRMS/oracle/instantclient_12_2
+
+# set TNS_ADMIN env variable to locate tnsnames.ora
+export TNS_ADMIN=/home/netauto/FiRMS/oracle/
+
+python /home/netauto/FiRMS/builder/bin/.firms-rec.py "$@" 
+
